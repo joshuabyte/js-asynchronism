@@ -1,0 +1,25 @@
+{
+  "name": "js-asynchronism",
+  "version": "1.0.0",
+  "description": "js-asynchronism platzi course",
+  "main": "index.js",
+  "scripts": {
+    "callback": "node src/callback/challenge.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/protondk/js-asynchronism.git"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "Edgar Torres edgarjosue2911@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/protondk/js-asynchronism/issues"
+  },
+  "homepage": "https://github.com/protondk/js-asynchronism#readme",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
+}
